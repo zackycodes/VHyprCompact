@@ -37,9 +37,7 @@ The engine applies specific evaluation mappings for every piece type to determin
 You can run the engine in two different modes:
 1) __Command Line Interface (CLI)__: Play directly against the engine in your terminal.
 2) You can specify the search depth using the --depth flag (default is 3)
-3) __UCI Mode__: To use the engine with a GUI (like Arena or Cute Chess), use the --uci flag
+3) __UCI Mode__: To use the engine with a GUI (like Arena or Cute Chess), use the --uci flag -> CURRENTLY UNDER MAINTAINENCE
 
 ## Notes
 Good Luck!
-talk(): Handles UCI communication protocol
-.
