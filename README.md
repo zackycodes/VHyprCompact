@@ -17,7 +17,7 @@ This engine employs a Minimax algorithm with Alpha-Beta pruning and uses Piece-S
 
 * __Dual Interface__: Supports both a standard command-line interface (CLI) and the Universal Chess Interface (UCI) protocol for use with external chess GUIs
 
-## Piece-Square Tables (PST)
+## 🔲 Piece-Square Tables (PST)
 
 The engine applies specific evaluation mappings for every piece type to determine the "value" of a square
 * __Pawns__: Encouraged to advance and occupy the center
@@ -27,7 +27,7 @@ The engine applies specific evaluation mappings for every piece type to determin
 * __Kings__: In the mid-game, the engine prioritizes king safety (corners); in the endgame, it shifts to a table that encourages the king to participate in the center
 
 
-## How to Use
+## ❔ How to Use
 
 ### Requirements
 * Python 3.x
